@@ -1,8 +1,8 @@
 {
   "name": "Make Crypto Great Again",
   "symbol": "MCGA",
-  "description": "MCGA is a Solana-based token promoting decentralization and freedom.",
-  "image": "https://raw.githubusercontent.com/AgentSmith2025/quen-mcga/main/mcga%20logo.png",
+  "description": "MCGA is a Solana-based token promoting decentralization, freedom, and economic inclusion. As a community-driven initiative, MCGA supports Web3 projects and incentivizes contributions to the decentralized ecosystem. Join the movement and shape the future of blockchain innovation.",
+  "image": "https://arweave.net/bdc33cf714d009ee35b9704180a6adad8912ebd1bb06d2aefe94746b8c5db52d",
   "external_url": "https://www.getmcgatoken.com",
   "seller_fee_basis_points": 0,
   "creators": [
@@ -19,15 +19,18 @@
     {
       "trait_type": "Blockchain",
       "value": "Solana"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Decentralization"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/AgentSmith2025/quen-mcga/main/mcga%20logo.png",
+        "uri": "https://arweave.net/bdc33cf714d009ee35b9704180a6adad8912ebd1bb06d2aefe94746b8c5db52d",
         "type": "image/png"
       }
     ]
   }
 }
-
